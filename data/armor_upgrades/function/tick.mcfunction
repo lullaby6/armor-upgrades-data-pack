@@ -7,5 +7,8 @@ execute as @e[type=item,nbt={Item:{components:{"minecraft:custom_data":{armor_up
 
 execute as @a if predicate armor_upgrades:fire run return run function armor_upgrades:armor/fire/player/tick
 
+# Prismarine
+execute as @a if predicate armor_upgrades:prismarine run return run function armor_upgrades:armor/prismarine/player/tick
+
 # Sculk
 execute as @a if predicate armor_upgrades:sculk run return run function armor_upgrades:armor/sculk/player/tick

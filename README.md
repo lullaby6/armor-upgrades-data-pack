@@ -1,6 +1,6 @@
 # Armor Upgrades
 
-New armors for vanilla minecraft! The new armors are `Dune`, `Fire`, `Prismarine`, `Ender` and `Sculk` armors, these new armors do not seek to create a tier more powerful than the netherite, they seek to add armors that modify other attributes so you can choose the armor that best suits your play style, that is, they are alternatives to the netherite armor.
+New armors for vanilla minecraft! The new armors are `Fire`, `Ender`, `Prismarine`, `Dune` and `Sculk` armors, these new armors do not seek to create a tier more powerful than the netherite, they seek to add armors that modify other attributes so you can choose the armor that best suits your play style, that is, they are alternatives to the netherite armor.
 
 Armor, armor toughness and durability is the same as the diamond armor set.
 
@@ -24,6 +24,8 @@ Every armor piece have:
 - `+10 oxygen_bonus`
 - `+1 submerged_mining_speed`
 
+By having full armor you gain conduit power effect.
+
 ### Ender
 
 Every armor piece have:
@@ -37,7 +39,7 @@ Every armor piece have:
 - `+0.1 attack_speed`
 - `-1 burning_time`
 
-By having full armor you gain fire resistance and if any amor piece falls into the lava it will not burn, it will be glowing and will up to the surface.
+By having full armor you gain fire resistance effect and if any amor piece falls into the lava it will not burn, it will be glowing and will up to the surface.
 
 ### Sculk
 
