@@ -1,0 +1,68 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "#SC",
+        "CDC",
+        "#U#"
+    ],
+    "key": {
+        "#": "minecraft:shulker_shell",
+        "S": "minecraft:spire_armor_trim_smithing_template",
+        "C": "minecraft:chorus_fruit",
+        "D": "minecraft:diamond_helmet",
+        "U": "minecraft:dragon_head"
+    },
+    "result": {
+        "id": "minecraft:leather_helmet",
+        "count": 1,
+        "components": {
+          "minecraft:dyed_color": {
+            "rgb": 4788308,
+            "show_in_tooltip": false
+          },
+          "minecraft:trim": {
+            "material": "minecraft:amethyst",
+            "pattern": "minecraft:eye",
+            "show_in_tooltip": false
+          },
+          "minecraft:rarity": "epic",
+          "minecraft:max_damage": 400,
+          "minecraft:attribute_modifiers": [
+            {
+              "id": "c4800d88-a0b6-452f-9a2d-5e02741258a1",
+              "type": "armor",
+              "amount": 3,
+              "operation": "add_value",
+              "slot": "head"
+            },
+            {
+              "id": "70e320d7-4d70-4da6-a3c6-fe8604b64609",
+              "type": "armor_toughness",
+              "amount": 2,
+              "operation": "add_value",
+              "slot": "head"
+            },
+            {
+              "id": "78f9180c-5424-424c-b5e6-33f61fdbe865",
+              "type": "movement_speed",
+              "amount": 0.01,
+              "operation": "add_value",
+              "slot": "head"
+            }
+          ],
+          "minecraft:equippable": {
+            "slot": "head",
+            "asset_id": "minecraft:leather",
+            "equip_sound": "item.armor.equip_diamond",
+            "dispensable": true,
+            "swappable": true,
+            "damage_on_hurt": true
+          },
+                          "minecraft:custom_data": {
+            "armor_upgrades.ender": true
+          },
+          "minecraft:custom_name": "{\"text\":\"Ender Helmet\",\"italic\": false}"
+        }
+    }
+}
