@@ -44,7 +44,7 @@
                   {
                     "id": "78f9180c-5424-424c-b5e6-33f61fdbe865",
                     "type": "max_health",
-                    "amount": 1.5,
+                    "amount": 2,
                     "operation": "add_value",
                     "slot": "head"
                   },

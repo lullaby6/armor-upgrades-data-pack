@@ -44,7 +44,7 @@
                   {
                     "id": "2bb47fd0-62e1-493c-8af5-681fe2ec8987",
                     "type": "max_health",
-                    "amount": 1.5,
+                    "amount": 2,
                     "operation": "add_value",
                     "slot": "chest"
                   },

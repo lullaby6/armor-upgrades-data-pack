@@ -44,7 +44,7 @@
                   {
                     "id": "f822bd5b-4163-475a-bd28-9bcbdef24760",
                     "type": "max_health",
-                    "amount": 1.5,
+                    "amount": 2,
                     "operation": "add_value",
                     "slot": "legs"
                   },
