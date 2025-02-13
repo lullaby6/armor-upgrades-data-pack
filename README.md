@@ -14,6 +14,20 @@ When a player obtains a diamond he unlocks all the armor recipes.
 
 Version: `1.21.4`
 
+## Armors
+
+### Ender
+
+If any piece of armor falls into the void at the end, it will float in the air, will glow and will not be dispawned.
+
+### Fire
+
+By having full armor you gain resistance against fire and if a piece of armor falls into the lava it will not burn, it will be glowing and will rise to the surface of the lava.
+
+### Sculk
+
+By having full armor you are immune to all bad effects.
+
 ## Commands
 
 Give:
