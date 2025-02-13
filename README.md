@@ -1,6 +1,6 @@
 # Armor Upgrades
 
-New armors for vanilla minecraft! `Dune`, `Fire`, `Prismarine`, `Ender` and `Sculk` Armors, these new armors do not seek to create a tier more powerful than the netherite, they seek to add armors that modify other attributes so you can choose the armor that best suits your play style, that is, they are alternatives to the netherite armor.
+New armors for vanilla minecraft! The new armors are `Dune`, `Fire`, `Prismarine`, `Ender` and `Sculk` armors, these new armors do not seek to create a tier more powerful than the netherite, they seek to add armors that modify other attributes so you can choose the armor that best suits your play style, that is, they are alternatives to the netherite armor.
 
 Armor, armor toughness and durability is the same as the diamond armor set.
 
