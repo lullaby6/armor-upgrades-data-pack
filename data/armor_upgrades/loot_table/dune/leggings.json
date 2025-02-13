@@ -44,14 +44,14 @@
                   {
                     "id": "f822bd5b-4163-475a-bd28-9bcbdef24760",
                     "type": "entity_interaction_range",
-                    "amount": 0.125,
+                    "amount": 0.25,
                     "operation": "add_value",
                     "slot": "legs"
                   },
                   {
                     "id": "ed1af8d3-2762-4238-a399-2310c1b64e1a",
                     "type": "block_interaction_range",
-                    "amount": 0.25,
+                    "amount": 0.5,
                     "operation": "add_value",
                     "slot": "legs"
                   }

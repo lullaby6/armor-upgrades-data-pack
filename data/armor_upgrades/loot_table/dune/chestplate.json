@@ -44,14 +44,14 @@
                   {
                     "id": "2bb47fd0-62e1-493c-8af5-681fe2ec8987",
                     "type": "entity_interaction_range",
-                    "amount": 0.125,
+                    "amount": 0.25,
                     "operation": "add_value",
                     "slot": "chest"
                   },
                   {
                     "id": "ed9af9d4-2762-4238-a399-2310c1b13e1a",
                     "type": "block_interaction_range",
-                    "amount": 0.25,
+                    "amount": 0.5,
                     "operation": "add_value",
                     "slot": "chest"
                   }
