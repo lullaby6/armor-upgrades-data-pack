@@ -4,7 +4,7 @@ New armors for vanilla minecraft! The new armors are `Dune`, `Fire`, `Prismarine
 
 Armor, armor toughness and durability is the same as the diamond armor set.
 
-When a player obtains a diamond he unlocks all the armor recipes.
+When a player obtains a diamond, they unlock all armor recipes
 
 Version: `1.21.4`
 
