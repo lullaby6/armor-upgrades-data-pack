@@ -1,11 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
-  "pattern": ["#D#", "CPC", "#E#"],
+  "pattern": ["#D#", "SPS", "#E#"],
   "key": {
     "#": "minecraft:gold_block",
     "D": "minecraft:dune_armor_trim_smithing_template",
-    "C": "minecraft:chiseled_sandstone",
+    "S": "minecraft:skeleton_skull",
     "P": "minecraft:diamond_boots",
     "E": "minecraft:enchanted_golden_apple"
   },
