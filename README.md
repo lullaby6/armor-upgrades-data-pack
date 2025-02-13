@@ -10,6 +10,8 @@ New armors for vanilla minecraft!
 
 These new armors do not seek to create a tier more powerful than the netherite, they seek to add armors that modify other attributes so you can choose the armor that best suits your play style, that is, they are alternatives to the netherite armor.
 
+When a player obtains a diamond he unlocks all the armor recipes.
+
 Version: `1.21.4`
 
 ## Commands
