@@ -17,7 +17,7 @@ Version: `1.21.4`
         <li><code>0.1 attack_speed</code></li>
         <li><code>1 burning_time</code></li>
     </ul>
-
+    <p></p>
     By having full armor you gain fire resistance effect and if any amor piece falls into the lava it will not burn, it will be glowing and will up to the surface.
 </details>
 
