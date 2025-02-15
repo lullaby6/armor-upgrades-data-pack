@@ -76,7 +76,7 @@ Please report any bug/issues to the [Discord Server](https://discord.gg/qUPpApHq
     By having full armor you are immune to all bad effects.
 </details>
 
-## Commands
+## ⌨️ Commands
 
 Give:
 
