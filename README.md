@@ -18,7 +18,7 @@ Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
 
 ## 👾 Bugs/Issues
 
-Please report any bug/issues to the [Discord Server](https://discord.gg/qUPpApHq) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/armor-upgrades-data-pack/issues), or a comment in [Planet Minecraft](https://www.planetminecraft.com/data-pack/armor-upgrades-more-armors-1-21-4).
+Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/armor-upgrades-data-pack/issues), or a comment in [Planet Minecraft](https://www.planetminecraft.com/data-pack/armor-upgrades-more-armors-1-21-4).
 
 ## ⚔️ Armors
 
