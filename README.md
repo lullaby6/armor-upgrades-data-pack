@@ -6,8 +6,6 @@
 
 New armors for vanilla minecraft! The new armors are `Fire`, `Ender`, `Prismarine`, `Dune` and `Sculk` armors, these new armors do not seek to create a tier more powerful than the netherite, they seek to add armors that modify other attributes so you can choose the armor that best suits your play style, that is, they are alternatives to the netherite armor.
 
-Armor, armor toughness and durability is the same as the diamond armor set.
-
 When a player obtains a diamond, they unlock all armor recipes
 
 Version: `1.21.4`
@@ -22,12 +20,14 @@ Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5x
 
 ## ⚔️ Armors
 
+All armors durability is the same as the diamond armor set, and the armor and armor toughness is an intermediate between iron armor and diamond armor.
+
 <details>
     <summary>Fire Armor</summary>
     Every armor piece have
     <ul>
-        <li><code>0.1 attack_speed</code></li>
-        <li><code>1 burning_time</code></li>
+        <li><code>+0.1 attack_speed</code></li>
+        <li><code>+1 burning_time</code></li>
     </ul>
     <p></p>
     By having full armor you gain fire resistance effect and if any amor piece falls into the lava it will not burn, it will be glowing and will up to the surface.

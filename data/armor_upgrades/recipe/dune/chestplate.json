@@ -23,19 +23,19 @@
         "show_in_tooltip": false
       },
       "minecraft:rarity": "epic",
-      "minecraft:max_damage": 400,
+      "minecraft:max_damage": 598,
       "minecraft:attribute_modifiers": [
         {
           "id": "b35bba76-c513-4673-8598-8faf4f3c5bb6",
           "type": "armor",
-          "amount": 8,
+          "amount": 7,
           "operation": "add_value",
           "slot": "chest"
         },
         {
           "id": "7b4f1880-8e5e-4c37-a838-a2c4dd0e72b8",
           "type": "armor_toughness",
-          "amount": 2,
+          "amount": 1,
           "operation": "add_value",
           "slot": "chest"
         },
