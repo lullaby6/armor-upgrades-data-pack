@@ -12,13 +12,15 @@ Version: `1.21.4`
 
 <details>
     <summary>Fire Armor</summary>
-    Every armor piece have:
-    <ul>
-        <li><code>+0.1 attack_speed</code></li>
-        <li><code>-1 burning_time</code></li>
-    </ul>
+    <div>
+        <p>Every armor piece have</p>
+        <ul>
+            <li><code>0.1 attack_speed</code></li>
+            <li><code>1 burning_time</code></li>
+        </ul>
 
-    By having full armor you gain fire resistance effect and if any amor piece falls into the lava it will not burn, it will be glowing and will up to the surface.
+        <p>By having full armor you gain fire resistance effect and if any amor piece falls into the lava it will not burn, it will be glowing and will up to the surface.</p>
+    </div>
 </details>
 
 <details>
