@@ -61,7 +61,7 @@ All armors durability is the same as the diamond armor set, and the armor and ar
     Every armor piece have:
     <ul>
         <li><code>+0.25 entity_interaction_range</code></li>
-        <li><code>+0.5 entity_interaction_range</code></li>
+        <li><code>+0.5 block_interaction_range</code></li>
     </ul>
 </details>
 
