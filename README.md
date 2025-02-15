@@ -1,5 +1,9 @@
 # Armor Upgrades
 
+![bg](https://raw.githubusercontent.com/lullaby6/armor-upgrades-data-pack/refs/heads/main/images/bg.png)
+
+## 📖 Description
+
 New armors for vanilla minecraft! The new armors are `Fire`, `Ender`, `Prismarine`, `Dune` and `Sculk` armors, these new armors do not seek to create a tier more powerful than the netherite, they seek to add armors that modify other attributes so you can choose the armor that best suits your play style, that is, they are alternatives to the netherite armor.
 
 Armor, armor toughness and durability is the same as the diamond armor set.
@@ -8,7 +12,16 @@ When a player obtains a diamond, they unlock all armor recipes
 
 Version: `1.21.4`
 
-## Armors
+## 📂 Installation
+
+Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
+
+## 👾 Bugs/Issues
+
+Please report any bug/issues to the [Discord Server](https://discord.gg/qUPpApHq) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/armor-upgrades-data-pack/issues), or a comment in [Planet Minecraft](https://www.planetminecraft.com/data-pack/armor-upgrades-more-armors-1-21-4).
+
+
+## ⚔️ Armors
 
 <details>
     <summary>Fire Armor</summary>
@@ -94,6 +107,6 @@ Enable:
 /datapack enable "file/armor-upgrades.zip"
 ```
 
-## License
+## 🪪 License
 
-MIT
+[MIT](https://github.com/lullaby6/armor-upgrades-data-pack?tab=MIT-1-ov-file)
