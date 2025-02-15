@@ -17,6 +17,7 @@ Version: `1.21.4`
         <li><code>+0.1 attack_speed</code></li>
         <li><code>-1 burning_time</code></li>
     </ul>
+
     By having full armor you gain fire resistance effect and if any amor piece falls into the lava it will not burn, it will be glowing and will up to the surface.
 </details>
 
@@ -26,6 +27,7 @@ Version: `1.21.4`
     <ul>
         <li><code>+0.01 movement_speed</code></li>
     </ul>
+
     If any armor piece falls into the void at the end, it will levitate in the air, will be glowing and will not be dispawned.
 </details>
 
@@ -38,6 +40,7 @@ Version: `1.21.4`
         <li><code>+10 oxygen_bonus</code></li>
         <li><code>+1 submerged_mining_speed</code></li>
     </ul>
+
     By having full armor you gain conduit power effect.
 </details>
 
@@ -57,6 +60,7 @@ Version: `1.21.4`
         <li><code>+1 attack_damage</code></li>
         <li><code>+0.5 sneaking_speed</code></li>
     </ul>
+
     By having full armor you are immune to all bad effects.
 </details>
 
