@@ -12,13 +12,12 @@ Version: `1.21.4`
 
 <details>
     <summary>Dune Armor</summary>
+    Every armor piece have:
     <ul>
-        <li><code>texto resaltado</code></li>
-        <li>`+0.25 entity_interaction_range`</li>
-        <li>`+0.5 entity_interaction_range`</li>
+        <li><code>+0.25 entity_interaction_range</code></li>
+        <li><code>+0.5 entity_interaction_range</code></li>
     </ul>
 </details>
-
 
 ### Prismarine
 
