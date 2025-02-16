@@ -1,5 +1,11 @@
 # Armor Upgrades
 
+[![Latest Version](https://img.shields.io/github/v/release/lullaby6/armor-upgrades-data-pack?color=blueviolet&logo=github "View latest release")](https://github.com/lullaby6/armor-upgrades-data-pack/releases) 
+[![Discord Badge](https://img.shields.io/discord/738046951236567162?color=blue&logo=discord "Join our Discord Server")](https://discord.gg/5UdcDa5xNC) 
+[![Modrinth Badge](https://img.shields.io/modrinth/dt/armor-upgrades?label=Modrinth&logo=modrinth "View our Modrinth page")](https://modrinth.com/datapack/armor-upgrades) 
+[![License Badge](https://img.shields.io/badge/license-Stardust_Labs-green "View the License")](https://github.com/lullaby6/armor-upgrades-data-pack/blob/main/LICENSE) 
+[![Issues Badge](https://img.shields.io/github/issues/lullaby6/armor-upgrades-data-pack?color=orange&logo=github "View or open an issue")](https://github.com/lullaby6/armor-upgrades-data-pack/issues)
+
 ![bg](https://raw.githubusercontent.com/lullaby6/armor-upgrades-data-pack/refs/heads/main/images/bg.png)
 
 ## 📖 Description
