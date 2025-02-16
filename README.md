@@ -51,6 +51,10 @@ All armors durability is the same as the diamond armor set, and the armor and ar
     </ul>
     <p></p>
     If any armor piece falls into the void at the end, it will levitate in the air, will be glowing and will not be dispawned.
+    <p></p>
+    <h3>🛠️ Recipe</h3>
+    <p></p>
+    <img src="https://raw.githubusercontent.com/lullaby6/armor-upgrades-data-pack/refs/heads/main/images/recipes/ender.png" alt="Ender Armor Recipe">
 </details>
 
 <details>
@@ -64,6 +68,10 @@ All armors durability is the same as the diamond armor set, and the armor and ar
     </ul>
     <p></p>
     By having full armor you gain conduit power effect.
+    <p></p>
+    <h3>🛠️ Recipe</h3>
+    <p></p>
+    <img src="https://raw.githubusercontent.com/lullaby6/armor-upgrades-data-pack/refs/heads/main/images/recipes/prismarine.png" alt="Prismarine Armor Recipe">
 </details>
 
 <details>
@@ -73,6 +81,10 @@ All armors durability is the same as the diamond armor set, and the armor and ar
         <li><code>+0.25 entity_interaction_range</code></li>
         <li><code>+0.5 block_interaction_range</code></li>
     </ul>
+    <p></p>
+    <h3>🛠️ Recipe</h3>
+    <p></p>
+    <img src="https://raw.githubusercontent.com/lullaby6/armor-upgrades-data-pack/refs/heads/main/images/recipes/dune.png" alt="Dune Armor Recipe">
 </details>
 
 <details>
@@ -84,6 +96,10 @@ All armors durability is the same as the diamond armor set, and the armor and ar
     </ul>
     <p></p>
     By having full armor you are immune to all bad effects.
+    <p></p>
+    <h3>🛠️ Recipe</h3>
+    <p></p>
+    <img src="https://raw.githubusercontent.com/lullaby6/armor-upgrades-data-pack/refs/heads/main/images/recipes/sculk.png" alt="Sculk Armor Recipe">
 </details>
 
 ## ⌨️ Commands
