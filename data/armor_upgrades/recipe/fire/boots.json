@@ -2,12 +2,12 @@
     "type": "minecraft:crafting_shaped",
     "category": "equipment",
     "pattern": [
-        "#R#",
-        "QDQ",
-        "#M#"
+        "QRQ",
+        "BDB",
+        "QMQ"
     ],
     "key": {
-        "#": "minecraft:blaze_rod",
+        "B": "minecraft:blaze_rod",
         "R": "minecraft:rib_armor_trim_smithing_template",
         "Q": "minecraft:resin_brick",
         "D": "minecraft:diamond_boots",
