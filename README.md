@@ -30,7 +30,7 @@ All armors durability is the same as the diamond armor set, and the armor and ar
         <li><code>+1 burning_time</code></li>
     </ul>
     <p></p>
-    By having full armor you gain fire resistance effect and if any amor piece falls into the lava it will not burn, it will be glowing and will up to the surface.
+    By having full armor you gain fire resistance effect and if any armor piece falls into the lava it will not burn, it will be glowing and will up to the surface.
 </details>
 
 <details>
