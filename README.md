@@ -108,4 +108,4 @@ Enable:
 
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/armor-upgrades-data-pack?tab=MIT-1-ov-file)
+[MIT](https://github.com/lullaby6/armor-upgrades-data-pack/blob/main/LICENSE)
