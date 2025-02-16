@@ -37,10 +37,10 @@ All armors durability is the same as the diamond armor set, and the armor and ar
     </ul>
     <p></p>
     By having full armor you gain fire resistance effect and if any armor piece falls into the lava it will not burn, it will be glowing and will up to the surface.
-
-    ### 🛠️ Recipe
-
-    ![Fire Armor Recipe](https://raw.githubusercontent.com/lullaby6/armor-upgrades-data-pack/refs/heads/main/images/recipes/fire.png)
+    <p></p>
+    <h3>🛠️ Recipe</h3>
+    <p></p>
+    <img src="https://raw.githubusercontent.com/lullaby6/armor-upgrades-data-pack/refs/heads/main/images/recipes/fire.png" alt="Fire Armor Recipe">
 </details>
 
 <details>
