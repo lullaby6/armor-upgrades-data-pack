@@ -61,7 +61,7 @@ All armors durability is the same as the diamond armor set, and the armor and ar
     <summary>Prismarine Armor</summary>
     Every armor piece have:
     <ul>
-        <li><code>+2 max_health</code></li>
+        <li><code>+1.5 max_health</code></li>
         <li><code>+0.25 water_movement_efficiency</code></li>
         <li><code>+10 oxygen_bonus</code></li>
         <li><code>+1 submerged_mining_speed</code></li>
@@ -78,8 +78,8 @@ All armors durability is the same as the diamond armor set, and the armor and ar
     <summary>Dune Armor</summary>
     Every armor piece have:
     <ul>
-        <li><code>+0.25 entity_interaction_range</code></li>
-        <li><code>+0.5 block_interaction_range</code></li>
+        <li><code>+0.12 entity_interaction_range</code></li>
+        <li><code>+0.25 block_interaction_range</code></li>
     </ul>
     <p></p>
     <h3>🛠️ Recipe</h3>
@@ -91,8 +91,8 @@ All armors durability is the same as the diamond armor set, and the armor and ar
     <summary>Sculk Armor</summary>
     Every armor piece have:
     <ul>
-        <li><code>+1 attack_damage</code></li>
-        <li><code>+0.5 sneaking_speed</code></li>
+        <li><code>+0.75 attack_damage</code></li>
+        <li><code>+0.25 sneaking_speed</code></li>
     </ul>
     <p></p>
     By having full armor you are immune to all bad effects.
