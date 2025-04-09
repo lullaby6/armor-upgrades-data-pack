@@ -17,6 +17,8 @@ New armors for vanilla minecraft! The new armors are `Fire`, `Ender`, `Prismarin
 
 When a player obtains a diamond, they unlock all armor recipes
 
+Version: `1.21.5`
+
 ## 📂 Installation
 
 Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
