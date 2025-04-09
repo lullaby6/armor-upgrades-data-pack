@@ -13,14 +13,10 @@
     "id": "minecraft:leather_helmet",
     "count": 1,
     "components": {
-      "minecraft:dyed_color": {
-        "rgb": 14271576,
-        "show_in_tooltip": false
-      },
+      "minecraft:dyed_color": 14271576,
       "minecraft:trim": {
         "material": "minecraft:gold",
-        "pattern": "minecraft:dune",
-        "show_in_tooltip": false
+        "pattern": "minecraft:dune"
       },
       "minecraft:rarity": "epic",
       "minecraft:max_damage": 363,
@@ -62,10 +58,19 @@
         "swappable": true,
         "damage_on_hurt": true
       },
+      "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:dyed_color",
+            "minecraft:trim"
+          ]
+      },
       "minecraft:custom_data": {
         "armor_upgrades.dune": true
       },
-      "minecraft:custom_name": "{\"text\":\"Dune Helmet\",\"italic\": false}"
+      "minecraft:custom_name": {
+        "text": "Dune Helmet",
+        "italic": false
+      }
     }
   }
 }

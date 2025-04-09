@@ -15,14 +15,10 @@
             {
               "function": "set_components",
               "components": {
-                "minecraft:dyed_color": {
-                  "rgb": 4788308,
-                  "show_in_tooltip": false
-                },
+                "minecraft:dyed_color": 4788308,
                 "minecraft:trim": {
                   "material": "minecraft:amethyst",
-                  "pattern": "minecraft:eye",
-                  "show_in_tooltip": false
+                  "pattern": "minecraft:eye"
                 },
                 "minecraft:rarity": "epic",
                 "minecraft:max_damage": 495,
@@ -57,10 +53,19 @@
                   "swappable": true,
                   "damage_on_hurt": true
                 },
+                "minecraft:tooltip_display": {
+                    "hidden_components": [
+                      "minecraft:dyed_color",
+                      "minecraft:trim"
+                    ]
+                },
                 "minecraft:custom_data": {
                   "armor_upgrades.ender": true
                 },
-                "minecraft:custom_name": "{\"text\":\"Ender Leggings\",\"italic\": false}"
+                "minecraft:custom_name": {
+                  "text": "Ender Leggings",
+                  "italic": false
+                }
               }
             }
           ]

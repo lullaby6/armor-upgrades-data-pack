@@ -17,14 +17,10 @@
         "id": "minecraft:leather_boots",
         "count": 1,
         "components": {
-          "minecraft:dyed_color": {
-            "rgb": 405047,
-            "show_in_tooltip": false
-          },
+          "minecraft:dyed_color": 405047,
           "minecraft:trim": {
             "material": "minecraft:quartz",
-            "pattern": "minecraft:silence",
-            "show_in_tooltip": false
+            "pattern": "minecraft:silence"
           },
           "minecraft:rarity": "epic",
           "minecraft:max_damage": 429,
@@ -66,10 +62,19 @@
             "swappable": true,
             "damage_on_hurt": true
           },
+          "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:dyed_color",
+                "minecraft:trim"
+              ]
+          },
           "minecraft:custom_data": {
             "armor_upgrades.sculk": true
           },
-          "minecraft:custom_name": "{\"text\":\"Sculk Boots\",\"italic\": false}"
+          "minecraft:custom_name": {
+            "text": "Sculk Boots",
+            "italic": false
+          }
         }
     }
 }

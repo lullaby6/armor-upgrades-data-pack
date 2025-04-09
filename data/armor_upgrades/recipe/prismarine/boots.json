@@ -17,14 +17,10 @@
         "id": "minecraft:leather_boots",
         "count": 1,
         "components": {
-          "minecraft:dyed_color": {
-            "rgb": 4292970,
-            "show_in_tooltip": false
-          },
+          "minecraft:dyed_color": 4292970,
           "minecraft:trim": {
             "material": "minecraft:emerald",
-            "pattern": "minecraft:tide",
-            "show_in_tooltip": false
+            "pattern": "minecraft:tide"
           },
           "minecraft:rarity": "epic",
           "minecraft:max_damage": 429,
@@ -80,10 +76,19 @@
             "swappable": true,
             "damage_on_hurt": true
           },
+          "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:dyed_color",
+                "minecraft:trim"
+              ]
+          },
           "minecraft:custom_data": {
             "armor_upgrades.prismarine": true
           },
-          "minecraft:custom_name": "{\"text\":\"Prismarine Boots\",\"italic\": false}"
+          "minecraft:custom_name": {
+            "text": "Prismarine Boots",
+            "italic": false
+          }
         }
     }
 }
