@@ -17,16 +17,6 @@ New armors for vanilla minecraft! The new armors are `Fire`, `Ender`, `Prismarin
 
 When a player obtains a diamond, they unlock all armor recipes
 
-Version: `1.21.5`
-
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
-
 ## ⚔️ Armors, Stats and Recipes
 
 All armors durability is the same as the diamond armor set, and the armor and armor toughness is an intermediate between iron armor and diamond armor.
@@ -137,4 +127,4 @@ Enable:
 
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/armor-upgrades-data-pack/blob/main/LICENSE)
+[Limited Embed License v1.0](https://github.com/lullaby6/armor-upgrades-data-pack/blob/main/LICENSE)
