@@ -115,4 +115,4 @@ Give examples:
 
 ## 🪪 License
 
-[AGPLv3](https://github.com/lullaby6/armor-upgrades-data-pack/blob/main/LICENSE)
+[AGPL-3.0-or-later](https://github.com/lullaby6/armor-upgrades-data-pack/blob/main/LICENSE)
