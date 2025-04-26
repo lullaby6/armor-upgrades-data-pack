@@ -3,7 +3,7 @@
 [![Latest](https://img.shields.io/github/v/release/lullaby6/armor-upgrades-data-pack?color=blueviolet&logo=github)](https://github.com/lullaby6/armor-upgrades-data-pack/releases)
 [![Discord](https://img.shields.io/discord/1327308441324097681?label=discord&color=blue&logo=discord)](https://discord.gg/5UdcDa5xNC)
 [![Modrinth](https://img.shields.io/modrinth/dt/armor-upgrades?label=modrinth&logo=modrinth)](https://modrinth.com/datapack/armor-upgrades)
-[![License](https://img.shields.io/badge/license-mit-green)](https://github.com/lullaby6/armor-upgrades-data-pack/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/lullaby6/armor-upgrades-data-pack)](https://github.com/lullaby6/armor-upgrades-data-pack/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/lullaby6/armor-upgrades-data-pack?color=orange&logo=github)](https://github.com/lullaby6/armor-upgrades-data-pack/issues)
 [![Code Size](https://img.shields.io/github/languages/code-size/lullaby6/armor-upgrades-data-pack?color=purple&logoColor=white)](https://github.com/lullaby6/armor-upgrades-data-pack)
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/armor-upgrades-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/armor-upgrades-data-pack)
@@ -111,18 +111,6 @@ Give examples:
 /loot give @s loot armor_upgrades:dune/boots
 
 /loot give @s loot armor_upgrades:prismarine/all
-```
-
-Disable:
-
-```mcfunction
-/datapack disable "file/armor-upgrades.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/armor-upgrades.zip"
 ```
 
 ## 🪪 License
